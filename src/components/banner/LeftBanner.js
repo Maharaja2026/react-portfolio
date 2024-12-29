@@ -18,7 +18,11 @@ const LeftBanner = () => {
   return (
     <div className="w-full lgl:w-[60%] flex flex-col gap-20">
       <div className="flex flex-col gap-5">
+<<<<<<< HEAD
         <h4 className=" text-lg font-normal">DISCOVER MY REALM</h4>
+=======
+        <h4 className=" text-lg font-normal">WELCOME TO MY WORLD</h4>
+>>>>>>> fe0e7e332210ec39dec0aa6feafc28c53cab3179
         <h1 className="text-5xl font-bold text-white">
           Hi, I'm <span className="text-designColor capitalize">Siva Subramaniyan</span>
         </h1>
@@ -31,7 +35,11 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
+<<<<<<< HEAD
           With 15+ years in L&D and E-learning, I’ve delivered 120+ courses for 8,000+ employees globally. Key 
+=======
+          With 14+ years in L&D and E-learning, I’ve delivered 120+ courses for 8,000+ employees globally. Key 
+>>>>>>> fe0e7e332210ec39dec0aa6feafc28c53cab3179
           achievements include developing an LCMS, leading training for Microsoft and Google, and earning awards
            like “Young Business Leader - L&D.” I specialize in gamified learning and leadership programs that drive efficiency.
         </p>

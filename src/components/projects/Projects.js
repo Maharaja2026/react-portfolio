@@ -11,7 +11,11 @@ const Projects = () => {
     >
       <div className="flex justify-center items-center text-center">
         <Title
+<<<<<<< HEAD
           title="DISCOVER MY WORK"
+=======
+          title="VISIT MY PORTFOLIO AND KEEP YOUR FEEDBACK"
+>>>>>>> fe0e7e332210ec39dec0aa6feafc28c53cab3179
           des="My Projects"
         />
       </div>

@@ -48,10 +48,17 @@ const Contact = () => {
 
       emailjs
         .send(
+<<<<<<< HEAD
           "service_vottgov", // Replace with your EmailJS service ID
           "template_j35gst7", // Replace with your EmailJS template ID
           formData,
           "MUhnFlE47FwyBM02g" // Replace with your EmailJS public key
+=======
+          "service_rayx7e9", // Replace with your EmailJS service ID
+          "template_1vksd3c", // Replace with your EmailJS template ID
+          formData,
+          "7Ixr-vo70Vy01Z1Mn" // Replace with your EmailJS public key
+>>>>>>> fe0e7e332210ec39dec0aa6feafc28c53cab3179
         )
         .then(
           (result) => {

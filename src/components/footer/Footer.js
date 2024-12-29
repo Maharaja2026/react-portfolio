@@ -43,7 +43,11 @@ const Footer = () => {
         </div>
 
         {/* Quick Links */}
+<<<<<<< HEAD
         <div className="flex flex-col items-center justify-center md:items-start gap-9">
+=======
+        <div className="flex flex-col items-center justify-center md:items-start gap-6">
+>>>>>>> fe0e7e332210ec39dec0aa6feafc28c53cab3179
           <h3 className="text-xl uppercase text-designColor tracking-wider">
             Quick Links
           </h3>

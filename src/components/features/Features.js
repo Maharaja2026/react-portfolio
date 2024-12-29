@@ -11,11 +11,19 @@ const Features = () => {
       id="features"
       className="w-full py-20 border-b-[1px] border-b-black"
     >
+<<<<<<< HEAD
       <Title title="Departments" des="What I Do" />
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-20">
         <Card
           title="Leadership & Team Management"
           des="With 15+ years of experience, I have led teams of up to 18 FTEs, enhancing performance through mentorship and strategic direction."
+=======
+      <Title title="Features" des="What I Do" />
+      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-20">
+        <Card
+          title="Leadership & Team Management"
+          des="With 14+ years of experience, I have led teams of up to 18 FTEs, enhancing performance through mentorship and strategic direction."
+>>>>>>> fe0e7e332210ec39dec0aa6feafc28c53cab3179
         />
         <Card
           title="Learning Strategy & Design"
