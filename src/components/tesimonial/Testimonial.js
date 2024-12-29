@@ -117,11 +117,7 @@ const Testimonial = () => {
                 </div>
               </div>
               <div className="w-full lgl:w-[60%] h-full flex flex-col justify-between">
-<<<<<<< HEAD
                 <img className="w-20 lgl:w-26" src={quote} alt="quote" />
-=======
-                <img className="w-16 lgl:w-26" src={quote} alt="quote" />
->>>>>>> fe0e7e332210ec39dec0aa6feafc28c53cab3179
                 <div className="w-full h-[70%] py-10 bg-gradient-to-r from-[#1e2024] to-[#23272b] rounded-lg shadow-shadowOne p-4 lgl:p-8 flex flex-col justify-center gap-4 lgl:gap-8">
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
@@ -170,11 +166,7 @@ const Testimonial = () => {
                 </div>
               </div>
               <div className="w-full lgl:w-[60%] h-full flex flex-col justify-between">
-<<<<<<< HEAD
                 <img className="w-20 lgl:w-26" src={quote} alt="quote" />
-=======
-                <img className="w-20 lgl:w-32" src={quote} alt="quote" />
->>>>>>> fe0e7e332210ec39dec0aa6feafc28c53cab3179
                 <div className="w-full h-[70%] py-10 bg-gradient-to-r from-[#1e2024] to-[#23272b] rounded-lg shadow-shadowOne p-4 lgl:p-8 flex flex-col justify-center gap-4 lgl:gap-8">
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
@@ -226,11 +218,7 @@ const Testimonial = () => {
                 </div>
               </div>
               <div className="w-full lgl:w-[60%] h-full flex flex-col justify-between">
-<<<<<<< HEAD
                 <img className="w-20 lgl:w-26" src={quote} alt="quote" />
-=======
-                <img className="w-20 lgl:w-32" src={quote} alt="quote" />
->>>>>>> fe0e7e332210ec39dec0aa6feafc28c53cab3179
                 <div className="w-full h-[70%] py-10 bg-gradient-to-r from-[#1e2024] to-[#23272b] rounded-lg shadow-shadowOne p-4 lgl:p-8 flex flex-col justify-center gap-4 lgl:gap-8">
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
@@ -251,13 +239,7 @@ const Testimonial = () => {
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
                     Siva Subramaian is in fact a very hard working, studious and result oriented person. He though young is a very zealous and ambitious trainer.He has developed his skills as a trainer is always enriching his knowledge to come oout with unique ideas to make the training programme a success.
-<<<<<<< HEAD
                     
-=======
-                    At this young age he has understood that Training as a profession is like a Salesman job where we really need to make sense in the session and the participant should see value addition in the programme and he should be willing to implement it. We use to have many discussions in this regard.
-                    He is very confident and he does execute jobs well. He is good at developing content for the training programmes and also assess the post training impact.
-                    I wish he reaches height even he himself had not wished for !
->>>>>>> fe0e7e332210ec39dec0aa6feafc28c53cab3179
                   </p>
                 </div>
               </div>

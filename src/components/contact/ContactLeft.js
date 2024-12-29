@@ -17,11 +17,7 @@ const ContactLeft = () => {
           Learning and Development
         </p>
         <p className="text-base text-gray-400 tracking-wide">
-<<<<<<< HEAD
           With 15+ years in Learning & Development and E-learning, I create impactful training programs that drive results and enhance employee growth.        </p>
-=======
-          With 14+ years in Learning & Development and E-learning, I create impactful training programs that drive results and enhance employee growth.        </p>
->>>>>>> fe0e7e332210ec39dec0aa6feafc28c53cab3179
         <p className="text-base text-gray-400 flex items-center gap-2">
           Phone: <span className="text-lightText">+91 9176640033</span>
         </p>
